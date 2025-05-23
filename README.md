@@ -1,4 +1,4 @@
-## Oi! Eu sou o Frederico Pamplona
+👨🏻‍💻 Frederico Pamplona
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
