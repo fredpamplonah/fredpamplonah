@@ -43,7 +43,4 @@ Me chamo Frederico Pamplona, tenho 23 anos
   </a>
 </div>
 
-
-
-
-
+![Snake animation](https://github.com/fredpamplonah/fredpamplonah/blob/output/github-contribution-grid-snake.svg)
