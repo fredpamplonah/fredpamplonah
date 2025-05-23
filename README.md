@@ -1,7 +1,8 @@
-👨🏻‍💻 Frederico Pamplona
+# 👨🏻‍💻 Frederico Pamplona
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+**`Desenvolvedor Front-End`**
+
+Me chamo Frederico Pamplona, tenho 23 anos
 <div>
   <a href="https://github.com/fredpamplonah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredpamplonah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
