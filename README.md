@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Frederico Pamplona, sou natural de Belém do Pará, mas atualmente moro em Foz do Iguaçu. Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Gosto de explorar novas ferramentas, aprender constantemente e dividir um pouco do meu conhecimento com outras pessoas. Por isso, criei um canal no YouTube, onde compartilho dicas, projetos e conteúdos voltados à área de tecnologia.
+Me chamo Frederico Pamplona, sou natural de Belém do Pará e atualmente moro em Foz do Iguaçu. Sou formado em Análise e Desenvolvimento de Sistemas e sou movido por tecnologia e inovação. Estou sempre em busca de novas ferramentas, aprendizados e desafios que me ajudem a evoluir tanto na vida pessoal quanto na profissional. Gosto de trabalhar em equipe, trocar ideias e transformar conhecimento em soluções que realmente fazem a diferença.
 <div>
   <a href="https://github.com/fredpamplonah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredpamplonah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
