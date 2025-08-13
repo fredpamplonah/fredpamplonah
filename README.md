@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Frederico Pamplona
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`** **`Desenvolvedor Front-End`** **`Desenvolvedor Back-End`**
 
 Me chamo Frederico Pamplona, sou natural de Belém do Pará e atualmente moro em Foz do Iguaçu. Sou formado em Análise e Desenvolvimento de Sistemas e sou movido por tecnologia e inovação. Estou sempre em busca de novas ferramentas, aprendizados e desafios que me ajudem a evoluir tanto na vida pessoal quanto na profissional. Gosto de trabalhar em equipe, trocar ideias e transformar conhecimento em soluções que realmente fazem a diferença.
 <div>
